@@ -13,9 +13,7 @@
     - **Mac:** https://central.github.com/mac/latest
     - **Windows:** https://github-windows.s3.amazonaws.com/GitHubSetup.exe
   - Then, in the GitHub desktop client, select the **+** symbol at upper left, choosing **Clone**.
-    - You will have to select or create the directory name you put it in, on your own computer.
-
-        - Naming is worth a lot of thought. How will all this fit into your larger intellectual life (as mapped into your computer)? For myself, I think Jupyter notebooks are a huge part of my future, and it is nice to have them all in one folder tree. So I would create and use use the folder name **(home)/Jupyter/ATM407** and clone this repo into there. 
+    - You will have to select or create the directory name you put it in, on your own computer. *Naming is worth a lot of thought!* How will all this fit into your larger intellectual life (as mapped into your computer)? I think Jupyter notebooks are the most important layer of the technology stack we are working with here. As a big part of my computing future, it is nice to have them all in one folder tree, without too many other things in there. So I would create and use use the folder name **(home)/Jupyter/ATM407** and clone this repo into there. 
 
 5. Install the packages that make up the ATM407 **environment** on your machine, using conda (part of the Anaconda package you installed). To do this from a terminal, change directories into your clone of this repo, where you can find the file ATM407_environment.yml. Create the environment as explained [here](https://github.com/MPOcanes/MPO624-2020/blob/master/CONDA_ENVIRONMENTS.md), but substituting ATM407 for MPO624 as needed. It will take a few minutes to download all the Python packages we will use. You could also do this step from the Anaconda Navigator GUI. 
 
