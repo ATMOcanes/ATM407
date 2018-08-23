@@ -1,0 +1,26 @@
+name: ATM407
+channels:
+  - conda-forge
+  - pyviz
+  - defaults
+ dependencies:
+   - python=3
+   - numpy
+   - matplotlib
+   - cartopy
+   - jupyter
+   - netcdf4
+   - owslib
+   - metpy
+   - pint
+   - shapely
+   - siphon
+   - xarray
+   - pip
+   - ffmpeg
+   - pytest
+   - pip:
+     - python-awips
+     - mpldatacursor
+     - drilsdown
+     
