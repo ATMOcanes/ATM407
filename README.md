@@ -7,13 +7,11 @@
 2. Create a GitHub account. 
 
 3. **Fork this repo** by clicking the Fork button you see at upper right while logged in to your GitHub account.
-   - For instance, the course https://github.com/MPO624/MPO624-2020.
 
 4. **Clone** your forked repo to your local machine. 
   - To do this most intuitively, install the "223" version of the GitHub desktop client, which you can download from: 
     - **Mac:** https://central.github.com/mac/latest
     - **Windows:** https://github-windows.s3.amazonaws.com/GitHubSetup.exe
-    
   - Then, in the GitHub desktop client, select the **+** symbol at upper left, choosing **Clone**.
     - You will have to select or create the directory name you put it in, on your own computer.
 
