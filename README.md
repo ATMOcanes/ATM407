@@ -1,6 +1,6 @@
 # ATM407, University of Miami
 
-## How to use this repository of Jupyter (Python) notebooks, with the IDV as the visualization system
+## How to use this repository of Jupyter (Python) notebooks, with The IDV as the visualization system
 
 1. Install [The IDV](https://www.unidata.ucar.edu/downloads/idv/nightly/index.jsp), and [Jupyter notebooks via the Anaconda package](https://unidata.github.io/unidata-python-workshop/installation.html). 
 
