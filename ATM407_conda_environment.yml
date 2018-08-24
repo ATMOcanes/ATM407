@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - pyviz
   - defaults
- dependencies:
+dependencies:
    - python=3
    - numpy
    - matplotlib
