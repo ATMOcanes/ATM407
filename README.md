@@ -4,7 +4,7 @@
 
 1. Install [The IDV](https://www.unidata.ucar.edu/downloads/idv/nightly/index.jsp), and [Jupyter notebooks via the Anaconda package](https://unidata.github.io/python-workshop/installation.html). 
 
-2. Create a GitHub account. 
+2. Create a GitHub account, and [install the small program git](https://git-scm.com/download) if you are using a Mac that doesn't have it.
 
 3. **Fork this repo** by clicking the Fork button you see at upper right while logged in to your GitHub account.
 
