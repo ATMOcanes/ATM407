@@ -2,14 +2,14 @@
 
 ## How to use this repository of Jupyter (Python) notebooks, with The IDV as the visualization system
 
-1. Install [The IDV](https://www.unidata.ucar.edu/downloads/idv/nightly/index.jsp), and [Jupyter notebooks via the Anaconda package](https://unidata.github.io/unidata-python-workshop/installation.html). 
+1. Install [The IDV](https://www.unidata.ucar.edu/downloads/idv/nightly/index.jsp), and [Jupyter notebooks via the Anaconda package](https://unidata.github.io/python-workshop/installation.html). 
 
 2. Create a GitHub account. 
 
 3. **Fork this repo** by clicking the Fork button you see at upper right while logged in to your GitHub account.
 
 4. **Clone** your forked repo to your local machine. 
-  - To do this most intuitively, install the "223" version of the GitHub desktop client, which you can download from: 
+  - To do this most intuitively, install the older "223" version of the GitHub desktop client, which you can download from: 
     - **Mac:** https://central.github.com/mac/latest
     - **Windows:** https://github-windows.s3.amazonaws.com/GitHubSetup.exe
     
