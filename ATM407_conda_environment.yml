@@ -23,4 +23,5 @@ dependencies:
      - python-awips
      - mpldatacursor
      - drilsdown
+     - mesplots-pkg
      
