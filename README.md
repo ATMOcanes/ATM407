@@ -10,7 +10,7 @@
 
 4. **Clone** your forked repo to your local machine. 
   - To do this most intuitively, install the [desktop client](https://desktop.github.com)
-  - I have preferred the older "223" version of the GitHub desktop client, available (in spring 2018) from: 
+  - I have preferred the older "223" or 224 version of the GitHub desktop client, available (spring 2018) from: 
     - **Mac:** https://central.github.com/mac/latest
     - **Windows:** https://github-windows.s3.amazonaws.com/GitHubSetup.exe
     
